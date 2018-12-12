@@ -189,8 +189,6 @@ $ ( document ).ready ( function () {
 			
 			Tasks = data;
 			
-			console.log ( Tasks );
-			
 			if ( Tasks.length > 0 ) {
 				
 				var listItemlistItem = '';
